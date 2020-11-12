@@ -1,4 +1,4 @@
 myads.ge
-banner.myads.ge
+banners.myads.ge
 ads.ge
 space.ge
